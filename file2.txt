@@ -1,0 +1,5 @@
+git init  or "git clone url of the repository"
+git add .
+git commit -m "the message you want"
+git remote add origin "url of the repository "
+git push -u origiin main
