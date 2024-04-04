@@ -4,3 +4,7 @@ git commit -m "the message you want"
 git remote add origin "url of the repository "
 git push -u origiin main
 hello
+
+git checkout is used to switch between branches but when used with -b it can be used to create a new branch
+
+"This is for the new branch "
